@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/derekschatz/Wedding-Site.git"
-  },
+  "repository": "github:derekschatz/Wedding-Site",
   "keywords": [
     "wedding",
     "template",

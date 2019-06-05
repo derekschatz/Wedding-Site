@@ -8,7 +8,7 @@
   },
   "repository":{
     "type": "git",
-    "url": "https://derekschatz.github.io/Wedding-Site.git"
+    "url": "git+ssh://git@github.com:derekschatz/Wedding-Site.git"
   },
   "keywords": [
     "wedding",
@@ -17,7 +17,7 @@
   ],
   "author": "Derek Schatz",
   "license": "GPL-3.0",
-  "homepage": "https://derekschatz.github.io/Wedding-Site/",
+  "homepage": "https://github.com/derekschatz/Wedding-Site",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",

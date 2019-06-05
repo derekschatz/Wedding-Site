@@ -15,7 +15,7 @@
     "template",
     "website template"
   ],
-  "author": "Ram Patra",
+  "author": "Derek Schatz",
   "license": "GPL-3.0",
   "homepage": "https://github.com/derekschatz/wedding-site",
   "devDependencies": {
@@ -23,12 +23,10 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.0"
+  },
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "font-awesome": "^4.7.0",
+    "waypoints": "^4.0.1"
   }
-  // "dependencies": {
-  //   "animate.css": "^3.5.2",
-  //   "font-awesome": "^4.7.0",
-  //   "semver": "^6.1.1",
-  //   "waypoints": "^4.0.1"
-  // }
-
 }

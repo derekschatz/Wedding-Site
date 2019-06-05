@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "A wedding website with loads of features.",
   "main": "npmfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+     "scripts" :
+  { "install" : "scripts/install.js"
+  , "postinstall" : "scripts/install.js"
+  , "uninstall" : "scripts/uninstall.js"
   },
   "repository": {
     "type": "git",
@@ -30,4 +32,5 @@
     "semver": "^6.1.1",
     "waypoints": "^4.0.1"
   }
+
 }

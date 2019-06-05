@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "description": "A wedding website with loads of features.",
   "main": "npmfile.js",
-     "scripts" :
-  { "install" : "scripts/install.js"
-  , "postinstall" : "scripts/install.js"
-  , "uninstall" : "scripts/uninstall.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -25,12 +23,12 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.0"
-  },
-  "dependencies": {
-    "animate.css": ">3.5.2",
-    "font-awesome": ">4.7.0",
-    "semver": ">6.1.1",
-    "waypoints": ">4.0.1"
   }
+  // "dependencies": {
+  //   "animate.css": "^3.5.2",
+  //   "font-awesome": "^4.7.0",
+  //   "semver": "^6.1.1",
+  //   "waypoints": "^4.0.1"
+  // }
 
 }

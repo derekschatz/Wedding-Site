@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:derekschatz/Wedding-Site.git"
+    "url": "git+ssh://git@github.com:https://github.com/derekschatz/Wedding-Site.git"
   },
   "keywords": [
     "wedding",
     "template",
     "website template"
   ],
-  "author": "Ram Patra",
+  "author": "Derek Schatz",
   "license": "GPL-3.0",
   "homepage": "https://derekschatz.github.io/Wedding-Site/",
   "devDependencies": {
